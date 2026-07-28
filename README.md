@@ -15,4 +15,4 @@ This project is a single-page resume website built using HTML. It provides a cle
 
 ## Live Demo
 
-Check out the live demo of this project [here](https://x-radd.github.io/Single-page-CV/).
+Check out the live demo of this project [here](https://naprikot.github.io/Single-page-CV/).
