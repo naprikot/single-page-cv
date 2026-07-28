@@ -1,17 +1,17 @@
-# Single page CV (HTML only)
+# Single-Page CV (HTML only)
 
-This project is a single-page resume website built using HTML. It provides a clean and simple interface to showcase my personal information, skills, education, and work experience. The page is designed to be responsive and accessible, making it easy to view on various devices and screen sizes.
+This project is a single-page resume website built using HTML. It provides a clean and simple interface to showcase personal information, skills, education, and work experience. The page is designed to be responsive and accessible, making it easy to view on various devices and screen sizes.
 
 ## Features
 
 - **Responsive Design**: The layout is optimized for viewing on desktops, tablets, and mobile devices.
-- **SEO Friendly**: Includes Open Graph and SEO meta tags for better search engine optimization and social media sharing.
-- **Semantic HTML**: Uses semantic HTML elements for page structure.
+- **SEO-Friendly**: Includes Open Graph and SEO meta tags for better search engine optimization and social media sharing.
+- **Semantic HTML**: Uses semantic HTML elements for proper page structure.
 - **Favicon**: Includes a site favicon.
-- **Contact Information**: Easily accessible contact details with links to email and phone number.
-- **Skills Section**: Highlight my key skills and expertise.
-- **Education and Experience**: Sections to detail my educational background and work experience.
-- **External Links**: Links to my GitHub and daily.dev profiles.
+- **Contact Information**: Easily accessible contact details with direct links to an email address and phone number.
+- **Skills Section**: Highlights key skills and expertise.
+- **Education and Experience**: Dedicated sections detailing educational background and work experience.
+- **External Links**: Direct links to my GitHub and daily.dev profiles.
 
 ## Live Demo
 
