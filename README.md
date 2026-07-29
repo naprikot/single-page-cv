@@ -13,7 +13,7 @@ This project is a single-page resume website built using HTML. It provides a cle
 - **Education and Experience**: Dedicated sections detailing educational background and work experience.
 - **External Links**: Direct links to my GitHub and daily.dev profiles.
 
-## [Live Demo](https://naprikot.github.io/Single-page-CV/)
+## [Live Demo](https://naprikot.github.io/single-page-cv/)
 
 ## Project Source
 
